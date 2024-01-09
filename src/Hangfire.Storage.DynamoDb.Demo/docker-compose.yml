@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+  localstack:
+    image: localstack/localstack:2.0.0
+    ports:
+      - 8000:4566
+    environment:
+      - SERVICES=dynamodb
+      - AWS_REGION=us-east-1
+      - AWS_ACCESS_KEY_ID=key
+      - AWS_SECRET_ACCESS_KEY=secret
+    volumes:
+      - ./localstack-init:/etc/localstack/init/ready.d/
+  redis:
+    image: redis:5.0
+    ports:
+      - 36389:6379
+      

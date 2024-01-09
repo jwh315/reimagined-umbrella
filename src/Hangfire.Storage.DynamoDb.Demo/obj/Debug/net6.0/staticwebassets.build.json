@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p+mGiRculDceCLeHpUz93gWBsA2ytNHm8xhiMZ79Nzo=",
+  "Source": "Hangfire.Storage.DynamoDb.Demo",
+  "BasePath": "_content/Hangfire.Storage.DynamoDb.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

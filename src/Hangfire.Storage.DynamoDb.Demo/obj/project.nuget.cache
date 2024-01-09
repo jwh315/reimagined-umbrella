@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bNDeDFIHMrktjXMp7wbrhkCvhBdY13zx3CcH44VVowRW/SRFo4N5GjBtYPc9vwyGP0rBo1VaEsTIbPyYpUgCg==",
+  "success": true,
+  "projectFilePath": "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb.Demo/Hangfire.Storage.DynamoDb.Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/jacob.holmes/.nuget/packages/awssdk.core/3.7.300.24/awssdk.core.3.7.300.24.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/awssdk.dynamodbv2/3.7.300.24/awssdk.dynamodbv2.3.7.300.24.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/awssdk.extensions.netcore.setup/3.7.300/awssdk.extensions.netcore.setup.3.7.300.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/hangfire.aspnetcore/1.8.6/hangfire.aspnetcore.1.8.6.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/hangfire.core/1.8.6/hangfire.core.1.8.6.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/hangfire.netcore/1.8.6/hangfire.netcore.1.8.6.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/hangfire.redis.stackexchange/1.9.4-beta/hangfire.redis.stackexchange.1.9.4-beta.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/microsoft.extensions.configuration.abstractions/3.0.0/microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.0.0/microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.0.0/microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/microsoft.extensions.hosting.abstractions/3.0.0/microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.0/microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/microsoft.extensions.primitives/3.0.0/microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/pipelines.sockets.unofficial/2.2.2/pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/stackexchange.redis/2.6.111/stackexchange.redis.2.6.111.nupkg.sha512",
+    "/Users/jacob.holmes/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

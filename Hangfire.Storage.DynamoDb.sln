@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.Storage.DynamoDb", "src\Hangfire.Storage.DynamoDb\Hangfire.Storage.DynamoDb.csproj", "{086C2104-5C9F-4B32-85A9-BC9A6D200245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.Storage.DynamoDb.Tests", "src\Hangfire.Storage.DynamoDb.Tests\Hangfire.Storage.DynamoDb.Tests.csproj", "{FE89152F-3F1C-4394-AADD-C8B9F30E4116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.Storage.DynamoDb.Demo", "src\Hangfire.Storage.DynamoDb.Demo\Hangfire.Storage.DynamoDb.Demo.csproj", "{EB42D3AE-057F-481D-B2BA-37098C0A6E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086C2104-5C9F-4B32-85A9-BC9A6D200245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086C2104-5C9F-4B32-85A9-BC9A6D200245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086C2104-5C9F-4B32-85A9-BC9A6D200245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086C2104-5C9F-4B32-85A9-BC9A6D200245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE89152F-3F1C-4394-AADD-C8B9F30E4116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE89152F-3F1C-4394-AADD-C8B9F30E4116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE89152F-3F1C-4394-AADD-C8B9F30E4116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE89152F-3F1C-4394-AADD-C8B9F30E4116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB42D3AE-057F-481D-B2BA-37098C0A6E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB42D3AE-057F-481D-B2BA-37098C0A6E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB42D3AE-057F-481D-B2BA-37098C0A6E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB42D3AE-057F-481D-B2BA-37098C0A6E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

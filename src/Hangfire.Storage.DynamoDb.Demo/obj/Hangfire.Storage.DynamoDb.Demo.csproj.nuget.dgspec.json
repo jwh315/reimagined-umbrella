@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb.Demo/Hangfire.Storage.DynamoDb.Demo.csproj": {}
+  },
+  "projects": {
+    "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb.Demo/Hangfire.Storage.DynamoDb.Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb.Demo/Hangfire.Storage.DynamoDb.Demo.csproj",
+        "projectName": "Hangfire.Storage.DynamoDb.Demo",
+        "projectPath": "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb.Demo/Hangfire.Storage.DynamoDb.Demo.csproj",
+        "packagesPath": "/Users/jacob.holmes/.nuget/packages/",
+        "outputPath": "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb.Demo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jacob.holmes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/Hangfire.Storage.DynamoDb.csproj": {
+                "projectPath": "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/Hangfire.Storage.DynamoDb.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.300.24, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.300, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.6, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.6, )"
+            },
+            "Hangfire.Redis.StackExchange": {
+              "target": "Package",
+              "version": "[1.9.4-beta, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/Hangfire.Storage.DynamoDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/Hangfire.Storage.DynamoDb.csproj",
+        "projectName": "Hangfire.Storage.DynamoDb",
+        "projectPath": "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/Hangfire.Storage.DynamoDb.csproj",
+        "packagesPath": "/Users/jacob.holmes/.nuget/packages/",
+        "outputPath": "/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jacob.holmes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.300.24, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

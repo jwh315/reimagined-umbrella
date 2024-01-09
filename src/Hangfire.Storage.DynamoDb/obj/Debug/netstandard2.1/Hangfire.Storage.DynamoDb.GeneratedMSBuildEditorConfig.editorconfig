@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Hangfire.Storage.DynamoDb
+build_property.ProjectDir = /Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/

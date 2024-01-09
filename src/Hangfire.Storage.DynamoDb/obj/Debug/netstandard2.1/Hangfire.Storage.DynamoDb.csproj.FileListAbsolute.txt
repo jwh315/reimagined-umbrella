@@ -1,0 +1,10 @@
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/bin/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.deps.json
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/bin/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.dll
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/bin/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.pdb
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/obj/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.csproj.AssemblyReference.cache
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/obj/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/obj/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.AssemblyInfoInputs.cache
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/obj/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.AssemblyInfo.cs
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/obj/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.csproj.CoreCompileInputs.cache
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/obj/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.dll
+/Users/jacob.holmes/code/personal/Hangfire.Storage.DynamoDb/src/Hangfire.Storage.DynamoDb/obj/Debug/netstandard2.1/Hangfire.Storage.DynamoDb.pdb
